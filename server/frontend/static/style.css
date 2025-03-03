@@ -3,6 +3,11 @@ img{
   align-self: center;
 }
 
+.contact-text{
+    text-align: center;
+    color: blue;
+}
+
 .card{
   border: rgb(103, 102, 105) 3px solid;
   display: flex;  
@@ -12,6 +17,8 @@ img{
   margin-top: 1%;
   margin-bottom: 1%;
 }
+
+
 
 .row{
   display: flex;  
