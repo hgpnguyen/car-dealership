@@ -16,7 +16,7 @@ def initiate():
 
     # Create CarModel instances with the corresponding CarMake instances
     car_model_data = [
-      {"name":"Pathfinder", "dealer_id": 0, "type":"SUV", "year": 2023, "car_make":car_make_instances[0]},
+      {"name":"Pathfinder", "dealer_id": 5, "type":"SUV", "year": 2023, "car_make":car_make_instances[0]},
       {"name":"Qashqai", "dealer_id": 1, "type":"SUV", "year": 2023, "car_make":car_make_instances[0]},
       {"name":"XTRAIL", "dealer_id": 2, "type":"SUV", "year": 2023, "car_make":car_make_instances[0]},
       {"name":"YTRAIL", "dealer_id": 3, "type":"MINIVAN", "year": 2024, "car_make":car_make_instances[0]},
@@ -26,12 +26,12 @@ def initiate():
       {"name":"F-Class", "dealer_id": 2, "type":"MINIVAN", "year": 2025, "car_make":car_make_instances[1]},
       {"name":"A4", "dealer_id": 3, "type":"SUV", "year": 2023, "car_make":car_make_instances[2]},
       {"name":"A5", "dealer_id": 4, "type":"SUV", "year": 2023, "car_make":car_make_instances[2]},
-      {"name":"A6", "dealer_id": 0, "type":"SUV", "year": 2023, "car_make":car_make_instances[2]},
+      {"name":"A6", "dealer_id": 5, "type":"SUV", "year": 2023, "car_make":car_make_instances[2]},
       {"name":"A7", "dealer_id": 1, "type":"COUPE", "year": 2020, "car_make":car_make_instances[2]},
       {"name":"Sorrento", "dealer_id": 2, "type":"JEEP", "year": 2023, "car_make":car_make_instances[3]},
       {"name":"Carnival", "dealer_id": 3, "type":"WAGON", "year": 2023, "car_make":car_make_instances[3]},
       {"name":"Cerato", "dealer_id": 4, "type":"Sedan", "year": 2023, "car_make":car_make_instances[3]},
-      {"name":"Kilgon", "dealer_id": 0, "type":"COUPE", "year": 2019, "car_make":car_make_instances[3]},
+      {"name":"Kilgon", "dealer_id": 5, "type":"COUPE", "year": 2019, "car_make":car_make_instances[3]},
       {"name":"Corolla", "dealer_id": 1, "type":"Sedan", "year": 2023, "car_make":car_make_instances[4]},
       {"name":"Camry", "dealer_id": 2, "type":"Sedan", "year": 2023, "car_make":car_make_instances[4]},
       {"name":"Kluger", "dealer_id": 3, "type":"WAGON", "year": 2023, "car_make":car_make_instances[4]},
